@@ -1,0 +1,4 @@
+Generate personal access token from within GitHub:
+Settings > Developer Settings > Personal access tokens > tokens (classic) > Generate new token > New personal acess token (classic) > create a note in Note field and select "No expiration" > select all the scopes > select "Generate token" button
+
+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
